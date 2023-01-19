@@ -11,7 +11,7 @@ const App = () => {
         <div className="flex justify-center bg-black">
             <div className="flex flex-col items-center p-4 bg-zinc-900 space-y-8 > * + * border-gray-800 border-2">
                 <Header/>
-                <div className="flex flex-col items-start">
+                <div className="flex-initial flex-col items-start">
                     <div className="container w-40 h-40 p-2">
                         <img className="object-contain rounded-full" src={logo} alt="Image"></img>
                     </div>

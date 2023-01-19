@@ -1,6 +1,7 @@
 import React from "react";
 import "../index.css";
 import logo1 from "../images/eric_selfie.jpg";
+import logo2 from '../images/unity.jpg';
 import logo from '../images/eric_pic1.jpg';
 
 const Images = () => {
